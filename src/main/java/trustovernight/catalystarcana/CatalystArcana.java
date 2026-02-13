@@ -9,7 +9,7 @@ import trustovernight.catalystarcana.common.setup.CommonSetup;
 
 @Mod(CatalystArcana.MODID)
 public class CatalystArcana {
-    public static final String MODID = "catalyst-arcana";
+    public static final String MODID = "catalyst_arcana";
 
     public CatalystArcana() {
         FMLJavaModLoadingContext context = FMLJavaModLoadingContext.get();
